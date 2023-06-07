@@ -3,7 +3,7 @@ Welcome to DeOrderBook - a cutting-edge, trustless optionality protocol designed
 
 ## Product Features
 - **Fully Decentralised Optionality**: DeOrderBook removes the need for oracles in its design, providing a truly trustless environment.
-- **$DOB Real Yield**: Our embedded utility $DOB has natural mechanisms for demand and supply but at its core can be locked for hard rewards in the form of $bHODL (wrapped-bitcoin) and $uHODL (wrapped-dollar) tokens.
+- **$DOB: Utility with Real Yield**: Our embedded utility $DOB has natural mechanisms for demand and supply yet at its core can be locked for hard rewards in the form of $bHODL (wrapped-bitcoin) and $uHODL (wrapped-dollar) tokens.
 - **Unmatched Capital Flexibility**: Our dual-token option model is designed to solve capital inefficiencies in this vertical, allowing for the early unwind of collateral.
 
 ### Get Involved
